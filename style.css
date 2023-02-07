@@ -1,0 +1,27 @@
+.game-card {
+    height: 100vh;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+button#btnRetry{
+    background-color:blueviolet;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-body
+{
+    background-color:aquamarine;
+}
+
+.card-footer {
+    background-color: rgb(216, 216, 216);
+    
+}
+
+.card-header {
+    background-color: rgb(216, 216, 216);
+
+}
+
